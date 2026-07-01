@@ -14,3 +14,29 @@ Started:
 
 Goal:
 Become a Data Analyst.
+
+
+## Day 2 Progress
+
+### Python
+- Variables
+- Data Types
+- Input & Output
+- Type Conversion
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- Assignment Operators
+- Membership Operators
+- Identity Operators
+
+### SQL
+- DDL Commands
+- CREATE DATABASE
+- USE DATABASE
+- CREATE TABLE
+- Constraints
+- DROP TABLE
+- DESCRIBE TABLE
+
+Status: ✅ Completed
