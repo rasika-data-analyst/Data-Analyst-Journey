@@ -16,7 +16,7 @@ Goal:
 Become a Data Analyst.
 
 
-## Day 2 Progress
+## Day 2 
 
 ### Python
 - Variables
@@ -39,4 +39,18 @@ Become a Data Analyst.
 - DROP TABLE
 - DESCRIBE TABLE
 
-Status: ✅ Completed
+##  Day 3
+### Python
+- if
+- if...else
+- if...elif...else
+- Nested if
+- Decision Making Programs
+
+### SQL 
+INSERT
+SELECT
+WHERE
+DISTINCT
+ORDER BY
+LIMIT
