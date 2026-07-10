@@ -98,9 +98,62 @@ LIMIT
 - CTE + GROUP BY
 - CTE + HAVING
 
+- # Day 07 - Views
+
+## Topics Covered
+
+- Introduction to Views
+- CREATE VIEW
+- Display Data from a View
+- CREATE OR REPLACE VIEW
+- DROP VIEW
+- Simple View
+- View with WHERE Clause
+- View with Aggregate Functions
+
 ## Skills Learned
 
+- Creating virtual tables
+- Simplifying complex SQL queries
+- Reusing SQL queries
+- Improving query readability
+- Applying data security using views
 - Writing readable SQL
 - Reusing intermediate results
 - Complex reporting queries
 
+# Day 08 - Indexes
+
+## Topics Covered
+
+- Introduction to Indexes
+- CREATE INDEX
+- Composite Index
+- UNIQUE Index
+- SHOW INDEX
+- DROP INDEX
+- Advantages and Disadvantages of Indexes
+
+- ## Transaction Control Language (TCL)
+- Transactions
+- START TRANSACTION
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
+- ROLLBACK TO SAVEPOINT
+- Transaction Flow
+
+## Skills Learned
+
+- Improving query performance
+- Speeding up data retrieval
+- Choosing columns for indexing
+- Understanding clustered vs non-clustered concepts
+- Optimizing SQL queries
+- Managing database transactions
+- Saving permanent changes
+- Reverting unwanted changes
+- Using savepoints for partial rollback
+- Maintaining data consistency and integrity
+
+- 
