@@ -48,9 +48,59 @@ Become a Data Analyst.
 - Decision Making Programs
 
 ### SQL 
+
 INSERT
 SELECT
 WHERE
 DISTINCT
 ORDER BY
 LIMIT
+
+# Day 4 - GROUP BY
+### SQL 
+## Topics Covered
+ -DML
+ -TCL
+- GROUP BY
+- Aggregate Functions
+- COUNT
+- SUM
+- AVG
+- MAX
+- MIN
+- Multiple Column GROUP BY
+
+## Skills Learned
+- Grouping records
+- Calculating summaries
+- Business reporting queries
+
+# Day 5 - HAVING
+
+## Topics Covered
+
+- HAVING Clause
+- GROUP BY + HAVING
+- Aggregate Filtering
+
+## Skills Learned
+
+- Filtering grouped data
+- Aggregate conditions
+- SQL reporting
+
+- # Day 6 - Common Table Expressions (CTE)
+
+## Topics
+
+- WITH Clause
+- Temporary Result Sets
+- CTE + GROUP BY
+- CTE + HAVING
+
+## Skills Learned
+
+- Writing readable SQL
+- Reusing intermediate results
+- Complex reporting queries
+
