@@ -1,0 +1,101 @@
+# Day 1 – Power BI Data Cleaning
+
+## Objective
+
+Learn and practice data cleaning and transformation using Power Query in Power BI.
+
+## Topics Covered
+
+- Power Query introduction
+- Data type correction
+- Text standardization
+- Trim and Clean
+- Capitalize Each Word
+- Handling NULL values
+- Error checking
+- Duplicate identification
+- Removing duplicate records
+- Left Anti Join
+- Left Outer Join
+- Merge Queries
+- Append Queries
+- Group By
+- Conditional Columns
+- Custom Columns
+- Fill Down
+- Fill Up
+- Split Column
+- Extract Text
+- Replace NULL with Unknown
+- Date cleaning
+- Creating Year
+- Creating Month Number
+- Creating Month Name
+- Creating Quarter Number
+
+## Dataset
+
+Practice sales and order-management dataset containing:
+
+- Orders
+- Customers
+- Products
+- July Orders
+
+## Key Data Quality Issues Identified
+
+- Inconsistent capitalization in OrderStatus
+- Inconsistent capitalization in Channel
+- Missing Quantity
+- Missing Discount
+- Missing Profit
+- Duplicate transaction
+- Unmatched CustomerID: C999
+- Unmatched ProductID: P999
+- Missing lookup information
+- Date validation requirements
+
+## Power Query Techniques
+
+### Merge
+
+Used to combine columns from related tables.
+
+### Append
+
+Used to combine rows from similar tables.
+
+### Left Anti Join
+
+Used to identify unmatched records.
+
+### Left Outer Join
+
+Used to keep all records from the primary table and bring matching information from another table.
+
+### Group By
+
+Used to summarize data by categories such as Channel or Category.
+
+### Conditional Column
+
+Used to create business classifications such as:
+
+- High Value
+- Medium Value
+- Low Value
+
+### Custom Column
+
+Used to create calculated columns using Power Query expressions.
+
+## Business Observations
+
+- January–June represents the main order period.
+- July contains a noticeable increase in returned products.
+- Delivery-related issues require further investigation.
+- Unmatched customer and product records require data-quality handling.
+
+## Learning Outcome
+
+After completing Day 1, I can clean, transform, validate, merge, append, and prepare data for Power BI analysis using Power Query.
