@@ -1,0 +1,270 @@
+# 📊 Sales Analysis Dashboard – Power BI
+
+## 📌 Project Overview
+
+This project is a **Sales Analysis Dashboard built using Microsoft Power BI**.
+
+The objective of this project is to transform raw sales data into a clean, structured dataset and create meaningful business insights using **Power Query, Data Modeling, DAX Measures, and Power BI Visualizations**.
+
+This project demonstrates an end-to-end Data Analyst workflow:
+
+**Raw Data → Data Cleaning → Data Transformation → Data Modeling → DAX → Visualization → Business Insights**
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are:
+
+* Clean and prepare the raw sales dataset
+* Identify and handle data quality issues
+* Transform columns using Power Query
+* Create calculated/custom columns
+* Build appropriate data types
+* Create DAX measures
+* Analyze sales performance
+* Analyze product and category performance
+
+# 📥 Dataset
+
+The project uses a sales dataset containing transactional sales information.
+
+The dataset contains information related to:
+
+* Orders
+* Products
+* Customers
+* Quantity
+* Sales
+* Profit
+* Discount
+* Category
+* Channel
+* Order Status
+* Shipping information
+
+The original dataset was cleaned and transformed using Power Query before being used for analysis.
+
+---
+
+# 🧹 Data Cleaning & Transformation
+
+Data preparation was performed using **Power Query in Power BI Desktop**.
+
+The following activities were performed:
+
+### 1. Data Type Correction
+
+Appropriate data types were assigned to columns such as:
+
+* Date
+* Integer
+* Decimal
+* Text
+* Percentage
+
+### 2. Missing Value Handling
+
+Missing and blank values were reviewed and handled where required.
+
+### 3. Duplicate Handling
+
+Duplicate records were checked and removed where necessary.
+
+### 4. Column Cleaning
+
+Unnecessary columns were reviewed and removed where they were not required for analysis.
+
+### 5. Text Standardization
+
+Text values were checked for consistency, including:
+
+* Uppercase/lowercase differences
+* Extra spaces
+* Inconsistent categorical values
+
+### 6. Calculated / Custom Columns
+
+Additional columns were created where required to support analysis.
+
+### 7. Data Validation
+
+The transformed dataset was checked for:
+
+* Errors
+* Null values
+* Incorrect data types
+* Invalid calculations
+* Unexpected categorical values
+
+---
+
+# 🔄 Power Query
+
+Power Query was used for the complete data preparation process.
+
+The transformation workflow was:
+
+```text
+Raw Dataset
+     ↓
+Load Data
+     ↓
+Inspect Columns
+     ↓
+Correct Data Types
+     ↓
+Remove Duplicates
+     ↓
+Handle Missing Values
+     ↓
+Clean Text Values
+     ↓
+Create Custom/Conditional Columns
+     ↓
+Validate Data
+     ↓
+Load into Data Model
+```
+
+---
+
+# 📐 DAX Measures
+
+The project uses DAX measures to calculate important business KPIs.
+
+Examples include:
+
+### Total Quantity Sold
+
+```DAX
+Total Quantity Sold =
+SUM(Sales[Quantity])
+```
+
+### Total Sales
+
+```DAX
+Total Sales =
+SUM(Sales[Sales])
+```
+
+### Average Selling Price
+
+```DAX
+Average Selling Price =
+AVERAGE(Sales[Sales])
+```
+
+### Total Transactions
+
+```DAX
+Total Transactions =
+COUNTROWS(Sales)
+```
+
+### Unique Items Sold
+
+```DAX
+Unique Items Sold =
+DISTINCTCOUNT(Sales[ProductID])
+```
+
+> Update the table/column names if your final Power BI model uses different names.
+
+# 🧠 Skills Demonstrated
+
+### Power BI
+
+* Power BI Desktop
+
+### Power Query
+
+* Data cleaning
+* Data transformation
+* Data type conversion
+* Duplicate removal
+* Null handling
+* Custom columns
+* Conditional columns
+* Data validation
+
+### DAX
+
+* `SUM()`
+* `AVERAGE()`
+* `COUNTROWS()`
+* `DISTINCTCOUNT()`
+* Measures
+* Basic analytical calculations
+
+### Data Analytics
+
+* Exploratory analysis
+* KPI development
+* Trend analysis
+* Category analysis
+* Product analysis
+* Business insights
+
+---
+1. Download the `.pbix` file.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Review the Power Query transformations.
+4. Review the data model.
+5. Review the DAX measures..
+
+# 🔍  Workflow
+
+                 RAW DATA
+                    │
+                    ↓
+             DATA PROFILING
+                    │
+                    ↓
+             DATA CLEANING
+                    │
+                    ↓
+           POWER QUERY TRANSFORM
+                    │
+                    ↓
+              DATA MODEL
+                    │
+                    ↓
+              DAX MEASURES
+                    │
+
+# 🎓 Learning Outcome
+
+Through this project, I gained practical experience in converting raw business data into an analytical Power BI solution.
+
+Aspiring Data Analyst | SQL DBA | Power BI | SQL | Python | Excel
+
+---
+
+# ⭐ Portfolio
+
+This dataset is part of my **Data Analyst Learning Journey**, where I am building practical projects using:
+
+* SQL
+* Python
+* Excel
+* Power BI
+* Data Analysis
+
+More projects will be added as I continue developing my Data Analyst portfolio.
+
+---
+
+## 📌 Project Status
+
+**Status: Completed ✅**
+
+Data Cleaning → ✅
+Power Query → ✅
+Data Transformation → ✅
+Data Modeling → ✅
+DAX Measures → ✅
+Dashboard → ✅
+Business Insights → ✅
+GitHub Documentation → ✅
