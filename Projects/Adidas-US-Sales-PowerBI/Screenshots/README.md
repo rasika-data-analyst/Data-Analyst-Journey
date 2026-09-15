@@ -8,4 +8,4 @@ The screenshots showcase:
 - Regional Analysis
 - Product Analysis
 - Retailer Analysis
-- Sales Method and Trend Analysis
+
