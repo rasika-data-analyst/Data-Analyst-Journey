@@ -1,4 +1,4 @@
-# Power BI Day 2 – Laptop Data Cleaning & Transformation
+# Power BI  – Laptop Data Cleaning & Transformation
 
 ## Dataset
 Laptop dataset containing information about laptop brands,
