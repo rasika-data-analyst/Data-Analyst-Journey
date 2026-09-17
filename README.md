@@ -1,159 +1,196 @@
+# 📊 Data Analytics Portfolio & Upskilling
 
-# Data Analyst Journey
-My Data Analyst Learning Journey
-Hi!
+Welcome to my Data Analytics Portfolio!
 
-I'm Rasika.
+This repository showcases my continuous upskilling, hands-on practice, and project work in Data Analytics and Business Intelligence.
 
-I'm a SQL DBA transitioning into Data Analytics.
+The focus is on developing practical skills in data preparation, analysis, SQL problem-solving, visualization, dashboard development, and deriving meaningful business insights from data.
 
-This repository contains my daily learning, practice files, SQL, Python, NumPy, Pandas, Power BI and projects.
+---
 
-Started:
- 2026
+## 🛠️ Skills & Tools
 
-Goal:
-Become a Data Analyst.
-
-
-## Day 2 
+### SQL & Database
+- SQL
+- MySQL
+- Data Retrieval & Manipulation
+- Joins
+- Aggregations
+- GROUP BY & HAVING
+- Subqueries
+- CTEs
+- Views
+- Indexes
+- Window Functions
+- Transaction Control Language (TCL)
+- Query Optimization
 
 ### Python
-- Variables
-- Data Types
-- Input & Output
-- Type Conversion
-- Arithmetic Operators
-- Comparison Operators
-- Logical Operators
-- Assignment Operators
-- Membership Operators
-- Identity Operators
+- Python Fundamentals
+- NumPy
+- Pandas
+- Matplotlib
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 
-### SQL
-- DDL Commands
-- CREATE DATABASE
-- USE DATABASE
-- CREATE TABLE
-- Constraints
-- DROP TABLE
-- DESCRIBE TABLE
+### Excel
+- Data Cleaning
+- Excel Functions
+- Lookup Functions
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Validation
+- Dashboard Development
 
-##  Day 3
-### Python
-- if
-- if...else
-- if...elif...else
-- Nested if
-- Decision Making Programs
+### Power BI
+- Data Cleaning & Transformation
+- Data Modeling
+- Relationships
+- DAX
+- KPI Development
+- Interactive Dashboards
+- Slicers & Filters
+- Drill-through Analysis
+- Business Insights
 
-### SQL 
+---
 
-INSERT
-SELECT
-WHERE
-DISTINCT
-ORDER BY
-LIMIT
+## 📚 Learning & Practice
 
-# Day 4 - GROUP BY
-### SQL 
-## Topics Covered
- -DML
- -TCL
-- GROUP BY
-- Aggregate Functions
-- COUNT
-- SUM
-- AVG
-- MAX
-- MIN
-- Multiple Column GROUP BY
+This repository includes hands-on practice and learning materials covering:
 
-## Skills Learned
-- Grouping records
-- Calculating summaries
-- Business reporting queries
+- SQL & Database Analysis
+- Python Programming
+- NumPy
+- Pandas
+- Matplotlib
+- Excel
+- Power BI
+- DAX
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Business & KPI Analysis
 
-# Day 5 - HAVING
+The learning approach focuses on applying concepts through practical exercises and datasets rather than only theoretical study.
 
-## Topics Covered
+---
 
-- HAVING Clause
-- GROUP BY + HAVING
-- Aggregate Filtering
+## 📊 Projects
 
-## Skills Learned
+### SQL Projects
+#### 🏦 Banking SQL Analysis
+**Status:** In Progress
 
-- Filtering grouped data
-- Aggregate conditions
-- SQL reporting
+Analysis of banking data to identify customer, transaction, and financial trends using SQL.
 
-- # Day 6 - Common Table Expressions (CTE)
+**Skills:**  
+SQL | Data Analysis | CTEs | Window Functions | Aggregations | Business Insights
 
-## Topics
+---
 
-- WITH Clause
-- Temporary Result Sets
-- CTE + GROUP BY
-- CTE + HAVING
+## 📊 Power BI Projects
 
-- # Day 07 - Views
+### 🛍️ Adidas US Sales Dashboard
+**Status:** Completed
 
-## Topics Covered
+Interactive Power BI dashboard analyzing sales performance across products, retailers, regions, and sales methods.
 
-- Introduction to Views
-- CREATE VIEW
-- Display Data from a View
-- CREATE OR REPLACE VIEW
-- DROP VIEW
-- Simple View
-- View with WHERE Clause
-- View with Aggregate Functions
+**Key Areas:**
+- Sales & Profit Analysis
+- Retailer Performance
+- Product Performance
+- Regional Analysis
+- Sales Method Analysis
+- KPI Tracking
+- Business Insights
 
-## Skills Learned
+**Tools:**  
+Power BI | Power Query | DAX 
 
-- Creating virtual tables
-- Simplifying complex SQL queries
-- Reusing SQL queries
-- Improving query readability
-- Applying data security using views
-- Writing readable SQL
-- Reusing intermediate results
-- Complex reporting queries
+---
 
-# Day 08 - Indexes
+### ⚽ FIFA 2026 Player Performance Analysis
+**Status:** In Progress
 
-## Topics Covered
+End-to-end analysis of FIFA player performance data to understand player statistics, attacking contributions, consistency, competition performance, and overall performance metrics.
 
-- Introduction to Indexes
-- CREATE INDEX
-- Composite Index
-- UNIQUE Index
-- SHOW INDEX
-- DROP INDEX
-- Advantages and Disadvantages of Indexes
+**Analysis Includes:**
+- Player Performance
+- Goals & Assists
+- Passing Accuracy
+- Tackles
+- Match Ratings
+- Performance Score
+- Player Consistency
+- Position Analysis
+- Competition Analysis
 
-- ## Transaction Control Language (TCL)
-- Transactions
-- START TRANSACTION
-- COMMIT
-- ROLLBACK
-- SAVEPOINT
-- ROLLBACK TO SAVEPOINT
-- Transaction Flow
+**Tools:**  
+Python | Pandas | NumPy | Matplotlib | SQL | Power BI
 
-## Skills Learned
+---
 
-- Improving query performance
-- Speeding up data retrieval
-- Choosing columns for indexing
-- Understanding clustered vs non-clustered concepts
-- Optimizing SQL queries
-- Managing database transactions
-- Saving permanent changes
-- Reverting unwanted changes
-- Using savepoints for partial rollback
-- Maintaining data consistency and integrity
+## 📈 Analytics Concepts
 
-- 
+Throughout this portfolio, I work with:
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Descriptive Statistics
+- KPI Analysis
+- Trend Analysis
+- Comparative Analysis
+- Customer Analysis
+- Product Analysis
+- Sales Analysis
+- Performance Analysis
+- Business Insights
+- Data Visualization
+- Dashboard Development
+
+---
+
+## 🎯 Portfolio Objective
+
+The objective of this repository is to continuously strengthen practical Data Analytics skills by working with real-world datasets, solving analytical problems, building dashboards, and communicating insights clearly.
+
+**Started:** 2026
+
+---
+
+## 🔧 Tools & Technologies
+
+`SQL` `MySQL` `Python` `NumPy` `Pandas` `Matplotlib` `Excel` `Power BI` `DAX` `Jupyter Notebook` `GitHub`
+
+---
+
+## 📂 Repository Structure
+
+```text
+Data-Analytics-Portfolio/
+│
+├── Excel/
+│
+├── SQL/
+│
+├── Python/
+│
+├── NumPy/
+│
+├── Pandas/
+│
+├── PowerBI/
+│
+├── Projects/
+│   ├── Banking-Analytics/
+│   ├── FIFA-Player-Performance/
+│   ├── Adidas-US-Sales/
+│   └── ...
+│
+└── README.md
